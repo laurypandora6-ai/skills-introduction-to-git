@@ -6,3 +6,9 @@ UpdateVS1
 UpdateVS2
 UpdateVS3
 UpdateVS4
+
+# LauryPandora6-AI VS Code  Adding a new set of items 
+UpdateGitHUBA
+UpdateGitHUBB
+UpdateGitHUBC
+UpdateGitHUBD
